@@ -1,0 +1,12 @@
+name: rocksdb
+description: Dart binding for RocksDB
+version: 1.0.0
+author: Logan Gorence <logan@gorence.xyz>
+homepage: https://github.com/SpinlockLabs/rocksdb-dart
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  meta: ^1.1.6
+dev_dependencies:
+  test: ^1.3.0
